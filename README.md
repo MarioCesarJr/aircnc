@@ -1,4 +1,4 @@
-# aircnc
+# AirCnC (Code and Coffee) - Connect companies and devs with spots
 
 Omnistack 09
 
